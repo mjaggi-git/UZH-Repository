@@ -1,2 +1,1 @@
-# UZH-Repository
-All relevant files generated during the studies in biochemsitry and data science.
+This repository serves as a curated archive of technical projects and research conducted during my Master’s in Biochemistry and Minor in Computational Science at the University of Zurich. It demonstrates the application of quantitative methods to complex biological and chemical systems.
